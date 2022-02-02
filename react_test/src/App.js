@@ -2,8 +2,8 @@ import './App.css';
 import React, { useState } from "react";
 
 const App = () => {
-  const count = 0;
-
+  let count = 0;
+  
 
   
   return (
